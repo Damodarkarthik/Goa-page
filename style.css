@@ -1,0 +1,31 @@
+.bg-container {
+    background-color: white;
+    height: 100vh;
+
+}
+
+.about-goa {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 16px;
+}
+
+.description {
+    font-family: "Roboto";
+    color: #9aa5b1;
+    font-size: 13px;
+}
+
+.image {
+    height: 85px;
+    width: 85px;
+    margin-right: 6px;
+
+}
+
+.goa-videos {
+    width: 95px;
+    height: 96px;
+    border-radius: 8px;
+    margin: 4px;
+}
